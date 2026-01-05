@@ -1,0 +1,6 @@
+git init - initialize project
+git status - check changed files
+git diff - check changes inside the files
+git add <file> - add file to list of changes files
+git add . - add file to list of changes files
+git commit -m "explanation" - admit changes
